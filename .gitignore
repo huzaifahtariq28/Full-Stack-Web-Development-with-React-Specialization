@@ -15,4 +15,4 @@ Server-side Development with NodeJS, Express and MongoDB/Week 4
 
 node_modules
 .*
-
+dist
